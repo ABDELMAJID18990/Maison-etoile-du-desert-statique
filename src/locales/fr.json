@@ -1,0 +1,153 @@
+{
+  "navbar": {
+    "logo": "MAISON ÉTOILE",
+    "links": {
+      "home": "Accueil",
+      "rooms": "Chambres",
+      "experience": "L'Expérience",
+      "contact": "Contact"
+    },
+    "book": "Réserver",
+    "bookNow": "Réserver Maintenant",
+    "whatsappMessage": "Bonjour, je souhaite réserver un séjour à la Maison Étoile.",
+    "whatsappMessageMobile": "Bonjour, je souhaite réserver un séjour."
+  },
+  "footer": {
+    "brand": "Maison Étoile du Désert",
+    "slogan": "Votre oasis de luxe au cœur du désert.",
+    "navigationTitle": "Navigation",
+    "contactTitle": "Contactez-nous",
+    "links": {
+      "home": "Accueil",
+      "rooms": "Nos Chambres",
+      "experience": "L'Expérience",
+      "contact": "Contact"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "tiktok": "TikTok"
+    },
+    "copyright": "© {{year}} Maison Étoile du Désert. Tous droits réservés.",
+    "developedWith": "Développé avec",
+    "by": "par"
+  },
+  "storySection": {
+    "imageAlt": "L'hospitalité de Maison Étoile",
+    "eyebrow": "Notre Héritage",
+    "title": "Plus qu'une maison d'hôtes, une famille.",
+    "paragraph1": "Depuis des générations, notre famille vit au rythme du soleil et du sable saharien. La Maison Étoile n'a pas été construite pour être un hôtel, mais comme une extension de notre propre foyer.",
+    "paragraph2": "Nous avons ouvert nos portes aux voyageurs du monde entier avec une seule promesse : vous faire vivre la véritable hospitalité berbère. Ici, le temps ralentit. Vous n'êtes pas un simple client, vous êtes notre invité.",
+    "hostName": "Nourredine",
+    "hostRole": "Votre Hôte"
+  },
+  "testimonialsSection": {
+    "eyebrow": "Notre Livre d'Or",
+    "title": "Ce que nos voyageurs disent de nous",
+    "subtitle": "L'excellence de notre accueil est reconnue à l'international.",
+    "cta": "Découvrir tous nos avis en ligne"
+  },
+  "mealsSection": {
+    "title": "Saveurs Locales & Restauration",
+    "dinner": {
+      "title": "Dîner Traditionnel Marocain",
+      "description": "Entrée, plat local savoureux, dessert et eau. Une immersion culinaire authentique.",
+      "pricePerPerson": "10 € / pers."
+    },
+    "breakfast": {
+      "title": "Petit-déjeuner Beldi",
+      "description": "Thé, café, jus d'orange frais, pain traditionnel, œufs, miel, beurre, huiles d'olive, et le fameux Amlou.",
+      "pricePerPerson": "5 € / pers."
+    },
+    "note": {
+      "label": "💡 À noter :",
+      "text": "Merci de nous prévenir à l'avance lors de vos échanges sur WhatsApp pour réserver vos repas afin que nous puissions préparer des produits frais !"
+    }
+  },
+  "whatsappButton": {
+    "tooltip": "Une question ? Écrivez-nous 👋",
+    "message": "Bonjour Maison Étoile, j'aimerais avoir plus de renseignements.",
+    "ariaLabel": "Contactez-nous sur WhatsApp"
+  },
+  "roomCard": {
+    "perNight": "/ nuit",
+    "viewDetails": "Voir détails"
+  },
+  "roomDetails": {
+    "notFound": "Chambre introuvable.",
+    "aboutSuite": "À propos de cette suite",
+    "includedAmenities": "Équipements Inclus",
+    "features": {
+      "wifi": "Wifi Haut Débit",
+      "ac": "Climatisation",
+      "heating": "Chauffage",
+      "breakfast": "Petit Déjeuner Sahraoui",
+      "tv": "Télévision Satellite"
+    },
+    "rate": "Tarif",
+    "perNight": "/ nuit",
+    "bookStay": "Réservez votre séjour",
+    "bookingInfo": "Contactez-nous directement sur WhatsApp pour vérifier les disponibilités et bloquer vos dates.",
+    "bookWhatsapp": "Réserver sur WhatsApp",
+    "whatsappMessage": "Bonjour, je souhaite réserver la suite : ",
+    "reassurance": {
+      "quickResponse": "Réponse rapide garantie",
+      "bestRate": "Meilleur tarif en direct",
+      "payOnSite": "Paiement sur place"
+    }
+  },
+  "lightbox": {
+    "photos": "photos",
+    "detail": "Détail",
+    "reset": "Réinitialiser",
+    "doubleClickZoom": "Double-clic pour zoomer",
+    "navigateArrows": "Flèches pour naviguer",
+    "previous": "Précédente",
+    "next": "Suivante",
+    "main": "Principale",
+    "photo": "Photo"
+  },
+  "homePage": {
+    "heroTitle1": "L'Authenticité au",
+    "heroTitle2": "Cœur de l'Oasis",
+    "heroSubtitle": "Plus qu'un hôtel, une maison de famille au milieu des dunes.",
+    "btnRooms": "Nos Chambres",
+    "btnBook": "Réserver Maintenant",
+    "whatsappHero": "Bonjour, je souhaite réserver un séjour dans votre maison d'hôtes.",
+    "accommodation": "Hébergement",
+    "roomsTitle": "Nos Suites Sahariennes",
+    "experiencesLabel": "Vos Aventures",
+    "experiencesTitle": "Découvrez la magie du Sud Marocain.",
+    "experiencesPrice": {
+      "oasis": "À partir de 15 € / pers.",
+      "saharan4x4": "Forfait Groupe : 160 €"
+    },
+    "rate": "Tarif",
+    "ctaTitle": "Prêt pour l'Aventure ?",
+    "ctaDesc": "Faites-nous savoir si l'une de ces escapades vous tente lors de votre réservation de chambre. Nous organiserons chaque détail pour que votre découverte soit inoubliable.",
+    "btnExcursion": "Organiser mon excursion",
+    "whatsappExcursion": "Bonjour Maison Étoile, j'aimerais en savoir plus sur vos excursions (Oasis / 4x4).",
+    "trustBadge" : "Recommandé par nos voyageurs du monde entier"
+  },
+  "contactPage": {
+    "title": "Contactez-nous",
+    "subtitle": "Une question sur votre futur séjour ? Une demande spéciale ? Notre équipe est à votre disposition pour vous aider à préparer votre voyage dans le désert.",
+    "contactInfo": "Nos Coordonnées",
+    "addressTitle": "Adresse",
+    "addressValue": "Tighmert oasis 81000",
+    "addressNote": "Proche de la Kasbah Caravansérail",
+    "phoneTitle": "Téléphone",
+    "emailTitle": "Email",
+    "whatsappBtn": "Discuter sur WhatsApp",
+    "whatsappMessage": "Bonjour Maison Étoile, je souhaite avoir des renseignements pour organiser ma venue.",
+    "directionsTitle": "Comment rejoindre l'Oasis ?",
+    "step1Title": "Depuis Agadir",
+    "step1Text": "Empruntez la nationale vers Tiznit (100 km), bifurquez vers Bouizakarne (50 km), puis reprenez la route pour Guelmim (50 km).",
+    "step2Title": "Traverser Guelmim",
+    "step2Text": "Deux options : traversez la ville du nord au sud en suivant les panneaux « Tata / Assa », ou évitez le centre en empruntant la rocade Est.",
+    "step3Title": "L'arrivée à Tighmert",
+    "step3Text": "À 3 km de la sortie de Guelmim (rond-point Marjane), tournez à droite vers Asrir. Suivez les panneaux bien visibles vers l'oasis de Tighmert.",
+    "step4Title": "Coordonnées GPS",
+    "step4Text": "Vous pourrez stationner votre véhicule juste devant la maison. Si vous êtes perdus, appelez-nous !"
+  }
+}

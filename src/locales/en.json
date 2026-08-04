@@ -1,0 +1,153 @@
+{
+  "navbar": {
+    "logo": "MAISON ÉTOILE",
+    "links": {
+      "home": "Home",
+      "rooms": "Rooms",
+      "experience": "The Experience",
+      "contact": "Contact"
+    },
+    "book": "Book",
+    "bookNow": "Book Now",
+    "whatsappMessage": "Hello, I would like to book a stay at Maison Étoile.",
+    "whatsappMessageMobile": "Hello, I would like to book a stay."
+  },
+  "footer": {
+    "brand": "Maison Étoile du Désert",
+    "slogan": "Your luxury oasis in the heart of the desert.",
+    "navigationTitle": "Navigation",
+    "contactTitle": "Contact Us",
+    "links": {
+      "home": "Home",
+      "rooms": "Our Rooms",
+      "experience": "The Experience",
+      "contact": "Contact"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "tiktok": "TikTok"
+    },
+    "copyright": "© {{year}} Maison Étoile du Désert. All rights reserved.",
+    "developedWith": "Developed with",
+    "by": "by"
+  },
+  "storySection": {
+    "imageAlt": "The hospitality of Maison Étoile",
+    "eyebrow": "Our Heritage",
+    "title": "More than a guesthouse, a family.",
+    "paragraph1": "For generations, our family has lived to the rhythm of the sun and the Saharan sand. Maison Étoile was not built to be a hotel, but as an extension of our own home.",
+    "paragraph2": "We opened our doors to travelers from around the world with a single promise: to let you experience true Berber hospitality. Here, time slows down. You are not just a customer, you are our guest.",
+    "hostName": "Nourredine",
+    "hostRole": "Your Host"
+  },
+  "testimonialsSection": {
+    "eyebrow": "Our Guestbook",
+    "title": "What our travelers say about us",
+    "subtitle": "The excellence of our welcome is recognized internationally.",
+    "cta": "See all our reviews online"
+  },
+  "mealsSection": {
+    "title": "Local Flavors & Dining",
+    "dinner": {
+      "title": "Traditional Moroccan Dinner",
+      "description": "Starter, savory local main course, dessert and water. An authentic culinary experience.",
+      "pricePerPerson": "10 € / person"
+    },
+    "breakfast": {
+      "title": "Beldi Breakfast",
+      "description": "Tea, coffee, fresh orange juice, traditional bread, eggs, honey, butter, olive oils, and the famous Amlou.",
+      "pricePerPerson": "5 € / person"
+    },
+    "note": {
+      "label": "💡 Please note:",
+      "text": "Please let us know in advance via WhatsApp when booking your meals so we can prepare fresh ingredients!"
+    }
+  },
+  "whatsappButton": {
+    "tooltip": "Have a question? Write to us 👋",
+    "message": "Hello Maison Étoile, I would like more information.",
+    "ariaLabel": "Contact us on WhatsApp"
+  },
+  "roomCard": {
+    "perNight": "/ night",
+    "viewDetails": "View details"
+  },
+   "roomDetails": {
+    "notFound": "Room not found.",
+    "aboutSuite": "About this suite",
+    "includedAmenities": "Included Amenities",
+    "features": {
+      "wifi": "High-Speed Wifi",
+      "ac": "Air Conditioning",
+      "heating": "Heating",
+      "breakfast": "Saharan Breakfast",
+      "tv": "Satellite TV"
+    },
+    "rate": "Rate",
+    "perNight": "/ night",
+    "bookStay": "Book your stay",
+    "bookingInfo": "Contact us directly on WhatsApp to check availability and secure your dates.",
+    "bookWhatsapp": "Book on WhatsApp",
+    "whatsappMessage": "Hello, I would like to book the suite: ",
+    "reassurance": {
+      "quickResponse": "Fast response guaranteed",
+      "bestRate": "Best direct rate",
+      "payOnSite": "Payment on site"
+    }
+  },
+  "lightbox": {
+    "photos": "photos",
+    "detail": "Detail",
+    "reset": "Reset",
+    "doubleClickZoom": "Double-click to zoom",
+    "navigateArrows": "Arrows to navigate",
+    "previous": "Previous",
+    "next": "Next",
+    "main": "Main",
+    "photo": "Photo"
+  },
+  "homePage": {
+    "heroTitle1": "Authenticity in the",
+    "heroTitle2": "Heart of the Oasis",
+    "heroSubtitle": "More than a hotel, a family home amidst the dunes.",
+    "btnRooms": "Our Rooms",
+    "btnBook": "Book Now",
+    "whatsappHero": "Hello, I would like to book a stay at your guesthouse.",
+    "accommodation": "Accommodation",
+    "roomsTitle": "Our Saharan Suites",
+    "experiencesLabel": "Your Adventures",
+    "experiencesTitle": "Discover the magic of Southern Morocco.",
+    "experiencesPrice": {
+      "oasis": "From 15 € / person",
+      "saharan4x4": "Group package: 160 €"
+    },
+    "rate": "Rate",
+    "ctaTitle": "Ready for Adventure?",
+    "ctaDesc": "Let us know if any of these getaways tempt you when booking your room. We will organize every detail to make your discovery unforgettable.",
+    "btnExcursion": "Organize my excursion",
+    "whatsappExcursion": "Hello Maison Étoile, I would like to know more about your excursions (Oasis / 4x4).",
+    "trustBadge" : "Recommended by our travelers from all over the world"
+  },
+  "contactPage": {
+    "title": "Contact Us",
+    "subtitle": "A question about your future stay? A special request? Our team is at your disposal to help you prepare for your trip to the desert.",
+    "contactInfo": "Our Contact Info",
+    "addressTitle": "Address",
+    "addressValue": "Tighmert oasis 81000",
+    "addressNote": "Near the Caravansérail Kasbah",
+    "phoneTitle": "Phone",
+    "emailTitle": "Email",
+    "whatsappBtn": "Chat on WhatsApp",
+    "whatsappMessage": "Hello Maison Étoile, I would like to get some information to organize my visit.",
+    "directionsTitle": "How to reach the Oasis?",
+    "step1Title": "From Agadir",
+    "step1Text": "Take the national road towards Tiznit (100 km), branch off towards Bouizakarne (50 km), then take the road to Guelmim (50 km).",
+    "step2Title": "Crossing Guelmim",
+    "step2Text": "Two options: cross the city from north to south following the 'Tata / Assa' signs, or avoid the center by taking the Eastern bypass.",
+    "step3Title": "Arrival at Tighmert",
+    "step3Text": "3 km after leaving Guelmim (Marjane roundabout), turn right towards Asrir. Follow the clearly visible signs to the Tighmert oasis.",
+    "step4Title": "GPS Coordinates",
+    "step4Text": "You can park your vehicle right in front of the house. If you get lost, give us a call!"
+  }
+}
