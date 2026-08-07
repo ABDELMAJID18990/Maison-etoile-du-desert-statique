@@ -16,7 +16,7 @@ const RoomCard = ({ id, title, price_per_night, image, capacity }) => {
         <img
           src={image || "https://via.placeholder.com/400"}
           alt={currentTitle}
-         
+          loading="lazy"
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-out"
         />
         

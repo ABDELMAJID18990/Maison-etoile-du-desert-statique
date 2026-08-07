@@ -5,7 +5,6 @@ import {
   MapPin, Phone, Mail, MessageCircle, Car, Map, Compass, Navigation
 } from "lucide-react";
 
-// 🎯 Imports centralisés
 import {
   fadeInUp,
   fadeInLeft,

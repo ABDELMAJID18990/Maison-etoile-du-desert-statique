@@ -293,6 +293,7 @@ function RoomDetailsPage() {
                 <img
                   src={room.gallery[0]}
                   alt={`${tObj(room.title)} - ${t("lightbox.main")}`}
+                  loading="lazy"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
                 />
                 <motion.div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" initial={{ opacity: 0 }} whileHover={{ opacity: 1 }} />
@@ -313,6 +314,7 @@ function RoomDetailsPage() {
                     <img
                       src={imgUrl}
                       alt={`${tObj(room.title)} - ${t("lightbox.detail")} ${index}`}
+                      loading="lazy"
                       className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                     />
                     <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300" />
@@ -456,11 +458,12 @@ function RoomDetailsPage() {
 
             <div ref={containerRef} className="flex-1 flex items-center justify-center relative overflow-hidden" onClick={(e) => e.stopPropagation()} onMouseDown={handleMouseDown} onMouseMove={handleMouseMove} onMouseUp={handleMouseUp} onMouseLeave={handleMouseUp} onTouchStart={handleTouchStart} onTouchMove={handleTouchMove} onTouchEnd={handleTouchEnd} onDoubleClick={handleDoubleClick}>
               <div style={getTransformStyle()} className="inline-flex">
-                <AnimatePresence mode="wait">
+                  <AnimatePresence mode="wait">
                   <motion.img
                     key={lightbox.currentIndex}
                     src={room.gallery[lightbox.currentIndex]}
                     alt={`${tObj(room.title)} - ${t("lightbox.photo")} ${lightbox.currentIndex + 1}`}
+                    loading="lazy"
                     className="max-w-[90vw] max-h-[70vh] md:max-w-[80vw] md:max-h-[80vh] object-contain select-none"
                     initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} draggable={false}
                   />
@@ -487,7 +490,7 @@ function RoomDetailsPage() {
               <div className="flex md:hidden items-center gap-1.5">
                 {room.gallery.map((img, index) => (
                   <motion.button key={index} onClick={(e) => { e.stopPropagation(); setLightbox((prev) => ({ ...prev, currentIndex: index, zoomLevel: 1, position: { x: 0, y: 0 } })); }} className={`w-10 h-10 rounded-lg overflow-hidden border-2 transition-colors ${index === lightbox.currentIndex ? "border-white" : "border-transparent opacity-50"}`}>
-                    <img src={img} alt="" className="w-full h-full object-cover" />
+                    <img src={img} alt="" loading="lazy" className="w-full h-full object-cover" />
                   </motion.button>
                 ))}
               </div>

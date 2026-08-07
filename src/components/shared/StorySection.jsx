@@ -1,4 +1,4 @@
-import storyImage from "../../../public/notre_histoire.JPG";
+import storyImage from "../../../public/notre_histoire.webp";
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import { fadeInLeft, fadeInRight, fadeInUp, viewportOnce } from '../../animations';
@@ -34,6 +34,7 @@ const StorySection = () => {
             <img
               src={storyImage}
               alt={t('storySection.imageAlt')}
+              loading="lazy"
               className="w-full h-[450px] md:h-[600px] object-cover rounded-t-full rounded-b-3xl shadow-2xl"
             />
           </motion.div>

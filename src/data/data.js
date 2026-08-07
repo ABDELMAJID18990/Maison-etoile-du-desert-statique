@@ -164,12 +164,12 @@ export const accommodationsData = [
       fr: "Vue sur le jardin, montagne & cour intérieure",
       en: "Garden, mountain & inner courtyard view",
     },
-    image_url: "/roomsPictures/chambre-triple-vue-sur-jardin/img1.jpg",
+    image_url: "/roomsPictures/chambre-triple-vue-sur-jardin/img1.webp",
     gallery: [
-      "/roomsPictures/chambre-triple-vue-sur-jardin/img1.jpg",
-      "/roomsPictures/chambre-triple-vue-sur-jardin/img2.jpg",
-      "/roomsPictures/chambre-triple-vue-sur-jardin/img3.jpg",
-      "/roomsPictures/chambre-triple-vue-sur-jardin/img4.jpg",
+      "/roomsPictures/chambre-triple-vue-sur-jardin/img1.webp",
+      "/roomsPictures/chambre-triple-vue-sur-jardin/img2.webp",
+      "/roomsPictures/chambre-triple-vue-sur-jardin/img3.webp",
+      "/roomsPictures/chambre-triple-vue-sur-jardin/img4.webp",
     ],
     amenities: [
       { fr: "Terrasse", en: "Terrace" },
@@ -203,7 +203,7 @@ export const experiencesData = [
       },
     ],
     priceKey: "homePage.experiencesPrice.oasis",
-    image_url: "/activities/oasis.jpg",
+    image_url: "/activities/oasis.webp",
   },
   {
     id: "02",
@@ -226,7 +226,7 @@ export const experiencesData = [
       },
     ],
     priceKey: "homePage.experiencesPrice.saharan4x4",
-    image_url: "/activities/dunes.jpg",
+    image_url: "/activities/dunes.webp",
   },
 ];
 

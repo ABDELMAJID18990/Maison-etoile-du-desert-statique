@@ -41,7 +41,7 @@ function HomePage() {
           transition={{ duration: 2, ease: "easeOut" }}
         >
           <img
-            src="/unnamed.jpg"
+            src="/unnamed.webp"
             alt="Désert Marocain"
             className="w-full h-full object-cover"
             loading="eager"
@@ -280,6 +280,7 @@ function HomePage() {
                       <img
                         src={exp.image_url}
                         alt={tObj(exp.title)}
+                        loading="lazy"
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
                       />
                     </div>
@@ -332,7 +333,7 @@ function HomePage() {
                           {t("homePage.rate")}
                         </span>
                         <span className="text-2xl font-serif font-bold text-primary">
-                          {typeof exp.price === "string" ? exp.price : tObj(exp.price)}
+                          {t(exp.priceKey)}
                         </span>
                       </div>
                     </div>
