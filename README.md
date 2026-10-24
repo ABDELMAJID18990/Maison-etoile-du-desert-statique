@@ -2,7 +2,7 @@
 
 > A high-performance, conversion-optimized Single Page Application (SPA) built for a luxury Saharan guesthouse.
 
-![Maison Etoile Preview](./public/preview.png) 
+![Maison Etoile Preview](./public/preview.webp) 
 
 🔗 **Live Demo:** https://maison-etoile-du-desert-statique.vercel.app/
 
