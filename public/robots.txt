@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maison-etoile-du-desert-statique.vercel.app//sitemap.xml
