@@ -1,6 +1,6 @@
 {
   "navbar": {
-    "logo": "MAISON ÉTOILE",
+    "logo": "MAISON ÉTOIL DU DÉSERT",
     "links": {
       "home": "Accueil",
       "rooms": "Chambres",
@@ -13,7 +13,7 @@
     "whatsappMessageMobile": "Bonjour, je souhaite réserver un séjour."
   },
   "footer": {
-    "brand": "Maison Étoile du Désert",
+    "brand": "Maison Étoile Du Désert",
     "slogan": "Votre oasis de luxe au cœur du désert.",
     "navigationTitle": "Navigation",
     "contactTitle": "Contactez-nous",
@@ -28,7 +28,7 @@
       "facebook": "Facebook",
       "tiktok": "TikTok"
     },
-    "copyright": "© {{year}} Maison Étoile du Désert. Tous droits réservés.",
+    "copyright": "© {{year}} Maison Étoile Du Désert. Tous droits réservés.",
     "developedWith": "Développé avec",
     "by": "par"
   },
@@ -36,7 +36,7 @@
     "imageAlt": "L'hospitalité de Maison Étoile",
     "eyebrow": "Notre Héritage",
     "title": "Plus qu'une maison d'hôtes, une famille.",
-    "paragraph1": "Depuis des générations, notre famille vit au rythme du soleil et du sable saharien. La Maison Étoile n'a pas été construite pour être un hôtel, mais comme une extension de notre propre foyer.",
+    "paragraph1": "Depuis des générations, notre famille vit au rythme du soleil et du sable saharien. La Maison Étoile Du Désert n'a pas été construite pour être un hôtel, mais comme une extension de notre propre foyer.",
     "paragraph2": "Nous avons ouvert nos portes aux voyageurs du monde entier avec une seule promesse : vous faire vivre la véritable hospitalité berbère. Ici, le temps ralentit. Vous n'êtes pas un simple client, vous êtes notre invité.",
     "hostName": "Nourredine",
     "hostRole": "Votre Hôte"
@@ -139,7 +139,7 @@
     "phoneTitle": "Téléphone",
     "emailTitle": "Email",
     "whatsappBtn": "Discuter sur WhatsApp",
-    "whatsappMessage": "Bonjour Maison Étoile, je souhaite avoir des renseignements pour organiser ma venue.",
+    "whatsappMessage": "Bonjour Maison Étoile Du Désert, je souhaite avoir des renseignements pour organiser ma venue.",
     "directionsTitle": "Comment rejoindre l'Oasis ?",
     "step1Title": "Depuis Agadir",
     "step1Text": "Empruntez la nationale vers Tiznit (100 km), bifurquez vers Bouizakarne (50 km), puis reprenez la route pour Guelmim (50 km).",

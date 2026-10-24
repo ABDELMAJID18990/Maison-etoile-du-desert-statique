@@ -1,6 +1,6 @@
 {
   "navbar": {
-    "logo": "MAISON ÉTOILE",
+    "logo": "MAISON ÉTOILE DU DÉSERT",
     "links": {
       "home": "Home",
       "rooms": "Rooms",
@@ -9,11 +9,11 @@
     },
     "book": "Book",
     "bookNow": "Book Now",
-    "whatsappMessage": "Hello, I would like to book a stay at Maison Étoile.",
+    "whatsappMessage": "Hello, I would like to book a stay at Maison Étoile Du Désert.",
     "whatsappMessageMobile": "Hello, I would like to book a stay."
   },
   "footer": {
-    "brand": "Maison Étoile du Désert",
+    "brand": "Maison Étoile Du Désert",
     "slogan": "Your luxury oasis in the heart of the desert.",
     "navigationTitle": "Navigation",
     "contactTitle": "Contact Us",
@@ -28,7 +28,7 @@
       "facebook": "Facebook",
       "tiktok": "TikTok"
     },
-    "copyright": "© {{year}} Maison Étoile du Désert. All rights reserved.",
+    "copyright": "© {{year}} Maison Étoile Du Désert. All rights reserved.",
     "developedWith": "Developed with",
     "by": "by"
   },
@@ -36,7 +36,7 @@
     "imageAlt": "The hospitality of Maison Étoile",
     "eyebrow": "Our Heritage",
     "title": "More than a guesthouse, a family.",
-    "paragraph1": "For generations, our family has lived to the rhythm of the sun and the Saharan sand. Maison Étoile was not built to be a hotel, but as an extension of our own home.",
+    "paragraph1": "For generations, our family has lived to the rhythm of the sun and the Saharan sand. Maison Étoile Du Désert was not built to be a hotel, but as an extension of our own home.",
     "paragraph2": "We opened our doors to travelers from around the world with a single promise: to let you experience true Berber hospitality. Here, time slows down. You are not just a customer, you are our guest.",
     "hostName": "Nourredine",
     "hostRole": "Your Host"
@@ -139,7 +139,7 @@
     "phoneTitle": "Phone",
     "emailTitle": "Email",
     "whatsappBtn": "Chat on WhatsApp",
-    "whatsappMessage": "Hello Maison Étoile, I would like to get some information to organize my visit.",
+    "whatsappMessage": "Hello Maison Étoile Du Désert, I would like to get some information to organize my visit.",
     "directionsTitle": "How to reach the Oasis?",
     "step1Title": "From Agadir",
     "step1Text": "Take the national road towards Tiznit (100 km), branch off towards Bouizakarne (50 km), then take the road to Guelmim (50 km).",

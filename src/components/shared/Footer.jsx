@@ -63,13 +63,13 @@ const Footer = () => {
               {t("footer.contactTitle")}
             </h4>
             <div className="space-y-4">
-              <a 
+              {/* <a 
                 href="mailto:etoiledusahra@gmail.com" 
                 className="flex items-center justify-center md:justify-start gap-3 text-white/60 hover:text-primary transition-colors group"
               >
                 <Mail size={18} className="text-primary group-hover:scale-110 transition-transform" />
-                etoiledusahra@gmail.com
-              </a>
+                
+              </a> */}
               <a 
                 href="tel:+212630518984"
                 className="flex items-center justify-center md:justify-start gap-3 text-white/60 hover:text-primary transition-colors group"

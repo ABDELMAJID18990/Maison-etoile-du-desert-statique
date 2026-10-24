@@ -88,15 +88,16 @@ const ContactPage = () => {
                 </div>
 
                 {/* Email */}
-                <div className="flex items-start gap-4">
+                {/* <div className="flex items-start gap-4">
                   <Mail className="text-primary w-6 h-6 flex-shrink-0 mt-1" />
                   <div>
                     <h4 className="font-bold text-lg">{t('contactPage.emailTitle')}</h4>
                     <p className="text-white/70 mt-1">
-                      etoiledusahra@gmail.com
+                      
                     </p>
-                  </div>
-                </div>
+                  </div> 
+                  
+                </div>*/}
               </div>
             </div>
 
